@@ -22,3 +22,5 @@ end
 ## Todo:
   * Test for numerals NOT at end of string (e.g. "The numeral vi stands for something" probably already capitalized though)
   
+## Contributions:
+Jon Gabriel Rodriguez II for lending his name
