@@ -5,7 +5,6 @@ to solve this one problem (but may be expanded on!).
 
 ## Usage
   * `git clone https://github.com/mikeLspohn/ruby-name-numeral-suffix-parser`
-  * In a file `require 'parse_name_numeral_suffix'`
 
 ```ruby
 require 'parse_name_numeral_suffix'
