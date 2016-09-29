@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mikeLspohn/ruby-name-numeral-suffix-parser.svg?branch=master)](https://travis-ci.org/mikeLspohn/ruby-name-numeral-suffix-parser)
+
 # Problem?
 So, in rails if you have a name, say `name = Jon Rod II`, and do `name.titleize` you get back `"Jon Rod Ii"`. Whatttt??
 Ok, so you can't really expect ActiveSupport to take care of everything for you. This script was made specifically
