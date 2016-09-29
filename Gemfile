@@ -1,4 +1,4 @@
 source 'http://rubygems.org'
-ruby '2.2'
+ruby '2.2.0'
 
 gem "minitest"
